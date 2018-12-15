@@ -50,7 +50,7 @@ def savepic(m,n):
     f.close()
   print("下载完成")  
     
- #爬取第一  至第三页图片 
+ #爬取第一 至第十页图片 
 savepic(1,10)
 
 
